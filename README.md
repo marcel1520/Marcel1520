@@ -4,7 +4,7 @@ My name is Marcel and this is my GitHub Profile.
 
 After the completion of a Software Engineering Course at Masterschool I am now specializing in Machine Learning and AI Engineering.
 
-I am especially interested in the mechanics behind performance of LLMs and am currently completing a set of lectures that give comprehensive insight in the architecture and functionality of Neural Networks. 
+I am especially interested in the mechanics behind the performance of LLMs and am currently completing a set of lectures that give comprehensive insight in the architecture and functionality of Neural Networks. 
 
 <!--
 **marcel1520/Marcel1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
