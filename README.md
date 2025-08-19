@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Marcel and this is my GitHub Profile.
 
-After the completion of a Software Engineering Course at Masterschool I am now specializing in Machine Learning and AI Tasks.
+After the completion of a Software Engineering Course at Masterschool I am now specializing in Machine Learning and AI Engineering.
 I am especially interested in the mechanics behind the functionality of LLMs and am currently completing a set of lectures that give comprehensive insight in the architecture of Neural Networks. 
 
 <!--
